@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage":"https://farazabir.github.io/Typing-Speed-Test-Reactjs/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
