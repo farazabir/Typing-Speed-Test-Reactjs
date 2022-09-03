@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e073f93d.css",
+    "main.js": "/static/js/main.7e776fa6.js",
+    "static/media/GTWalsheimProBold.ttf": "/static/media/GTWalsheimProBold.38c05a39f5e785f0a19e.ttf",
+    "index.html": "/index.html",
+    "main.e073f93d.css.map": "/static/css/main.e073f93d.css.map",
+    "main.7e776fa6.js.map": "/static/js/main.7e776fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e073f93d.css",
+    "static/js/main.7e776fa6.js"
+  ]
+}
