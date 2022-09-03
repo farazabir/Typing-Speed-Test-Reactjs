@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+@font-face {
+  font-family: GT ;
+  src: url(./fonts/GTWalsheimProBold.ttf);
+}
+
+:root{
+  font-family: "GT " !important;
+}
+
+
+html{
+  background-color: #2C3333;
+  font-weight: 100 !important;
+}
+
+h1{
+  font-weight: bold !important;
+  color: #E7F6F2 ;
+}
+h2{
+  font-size: 4rem !important;
+  color: #E7F6F2 !important;
+  font-weight: 700 !important;
+}
+
+.bg-success{
+  background-color: #066163 !important;
+  color: black;
+}
+
+.bg-failed{
+  background-color: #B20600 !important;
+  font-size: larger !important;
+}
+
+*{
+  background-color: #2C3333;
+  color: #D1D1D1;
+  font-family: 'GT';
+}
+
+.underlined{ 
+    background-image: linear-gradient(120deg, #B91519,#B91519 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 100%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underlined:hover{
+  background-size: 100% 88% !important;
+}
