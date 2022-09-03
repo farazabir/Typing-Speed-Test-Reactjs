@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e073f93d.css",
-    "main.js": "/static/js/main.7e776fa6.js",
-    "static/media/GTWalsheimProBold.ttf": "/static/media/GTWalsheimProBold.38c05a39f5e785f0a19e.ttf",
-    "index.html": "/index.html",
-    "main.e073f93d.css.map": "/static/css/main.e073f93d.css.map",
-    "main.7e776fa6.js.map": "/static/js/main.7e776fa6.js.map"
+    "main.css": "/Typing-Speed-Test-Reactjs/static/css/main.9e2069e0.css",
+    "main.js": "/Typing-Speed-Test-Reactjs/static/js/main.7e776fa6.js",
+    "static/media/GTWalsheimProBold.ttf": "/Typing-Speed-Test-Reactjs/static/media/GTWalsheimProBold.38c05a39f5e785f0a19e.ttf",
+    "index.html": "/Typing-Speed-Test-Reactjs/index.html",
+    "main.9e2069e0.css.map": "/Typing-Speed-Test-Reactjs/static/css/main.9e2069e0.css.map",
+    "main.7e776fa6.js.map": "/Typing-Speed-Test-Reactjs/static/js/main.7e776fa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e073f93d.css",
+    "static/css/main.9e2069e0.css",
     "static/js/main.7e776fa6.js"
   ]
 }
