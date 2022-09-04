@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className="d-flex justify-content-center mt-5 pt-5">
         <h3 className="underlined">
-          Made By <span className="underlined">Faraz Ahmed Abir</span>
+          Made With <span className="underlined">&#128512</span>
         </h3>
       </div>
 
